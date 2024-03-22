@@ -1,0 +1,351 @@
+D:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangNhap.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGiaoDienChinh.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhanVien.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChamCong.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTinhLuong.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fMonAn.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBanAn.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLoaiMon.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhapHang.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGoiMon.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhaCungCap.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeDoanhThu.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fXuatHang.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeHangTon.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKephieuNhap.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBanAn.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChamCong.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGiaoDienChinh.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGoiMon.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLoaiMon.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fMonAn.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhaCungCap.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhanVien.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhapHang.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTaiKhoan.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeDoanhThu.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeHangTon.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKephieuNhap.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTinhLuong.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fXuatHang.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangNhap.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKePhieuXuat.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongTinTaiKhoan.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fKhachHang.resources
+C:\Users\tung0\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBanAn.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChamCong.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGiaoDienChinh.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGoiMon.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fKhachHang.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLoaiMon.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fMonAn.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhaCungCap.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhanVien.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhapHang.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTaiKhoan.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeDoanhThu.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeHangTon.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKephieuNhap.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKePhieuXuat.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongTinTaiKhoan.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTinhLuong.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fXuatHang.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangNhap.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\tung0\Desktop\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBanAn.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChamCong.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGiaoDienChinh.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGoiMon.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fKhachHang.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLoaiMon.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fMonAn.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhaCungCap.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhanVien.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhapHang.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTaiKhoan.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeDoanhThu.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeHangTon.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKephieuNhap.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKePhieuXuat.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongTinTaiKhoan.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTinhLuong.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fXuatHang.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangNhap.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\tung0\Desktop\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBanAn.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChamCong.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGiaoDienChinh.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGoiMon.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fKhachHang.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLoaiMon.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fMonAn.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhaCungCap.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhanVien.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhapHang.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTaiKhoan.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeDoanhThu.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeHangTon.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKephieuNhap.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKePhieuXuat.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongTinTaiKhoan.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTinhLuong.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fXuatHang.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangNhap.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\project\BTL (1)\BTL\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\Interop.MSVidCtlLib.dll
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\Interop.WMPLib.dll
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\AxInterop.MSVidCtlLib.dll
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\AxInterop.WMPLib.dll
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.ResolveComReference.cache
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.dll
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.xml
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Interop.MSVidCtlLib.dll
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Interop.WMPLib.dll
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\AxInterop.MSVidCtlLib.dll
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\AxInterop.WMPLib.dll
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBanAn.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChamCong.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangNhap.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGiaoDienChinh.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.GUI.fGioiThieu.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGoiMon.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.GUI.fHoTro.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fKhachHang.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLoaiMon.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fMonAn.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhaCungCap.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhanVien.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhapHang.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTaiKhoan.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeDoanhThu.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeHangTon.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKephieuNhap.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKePhieuXuat.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongTinTaiKhoan.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTinhLuong.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.GUI.fVideo.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fXuatHang.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.rptHoaDon.resources
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+E:\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\Interop.MSVidCtlLib.dll
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\Interop.WMPLib.dll
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\AxInterop.MSVidCtlLib.dll
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\AxInterop.WMPLib.dll
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.ResolveComReference.cache
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBanAn.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChamCong.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangNhap.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGiaoDienChinh.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.GUI.fGioiThieu.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGoiMon.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.GUI.fHoTro.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fKhachHang.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLoaiMon.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fMonAn.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhaCungCap.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhanVien.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhapHang.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTaiKhoan.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeDoanhThu.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeHangTon.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKephieuNhap.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKePhieuXuat.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongTinTaiKhoan.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTinhLuong.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.GUI.fVideo.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fXuatHang.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.rptHoaDon.resources
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.dll
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.xml
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Interop.MSVidCtlLib.dll
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Interop.WMPLib.dll
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\AxInterop.MSVidCtlLib.dll
+E:\HOCTAP\DoAnCN\DOAN\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\AxInterop.WMPLib.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\Interop.MSVidCtlLib.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\Interop.WMPLib.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\AxInterop.MSVidCtlLib.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\AxInterop.WMPLib.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.ResolveComReference.cache
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fBanAn.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fChamCong.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDangNhap.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGiaoDienChinh.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.GUI.fGioiThieu.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fGoiMon.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.GUI.fHoTro.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fKhachHang.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLoaiMon.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fMonAn.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhaCungCap.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhanVien.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fNhapHang.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTaiKhoan.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeDoanhThu.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeHangTon.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKephieuNhap.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKePhieuXuat.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongTinTaiKhoan.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTinhLuong.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.GUI.fVideo.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fXuatHang.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.rptHoaDon.resources
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.BonusSkins.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.CodeParser.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Data.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.DataAccess.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Images.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Office.v23.2.Core.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.PivotGrid.v23.2.Core.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.RichEdit.v23.2.Export.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Utils.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Utils.v23.2.UI.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Xpo.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraBars.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraGauges.v23.2.Core.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraNavBar.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraPdfViewer.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraReports.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.Desktop.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraScheduler.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraScheduler.v23.2.Reporting.Extensions.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraRichEdit.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.DataAccess.v23.2.UI.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraPivotGrid.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraCharts.v23.2.Extensions.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraScheduler.v23.2.Reporting.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraDiagram.v23.2.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Diagram.v23.2.Core.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Data.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.DataAccess.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Office.v23.2.Core.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.PivotGrid.v23.2.Core.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Utils.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Utils.v23.2.UI.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Xpo.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraBars.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraGauges.v23.2.Core.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraNavBar.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraPdfViewer.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraReports.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraScheduler.v23.2.Reporting.Extensions.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraScheduler.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.Desktop.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraScheduler.v23.2.Core.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\EntityFramework.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.DataAccess.v23.2.UI.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraPivotGrid.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraScheduler.v23.2.Reporting.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.XtraDiagram.v23.2.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DevExpress.Diagram.v23.2.Core.xml
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Interop.MSVidCtlLib.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Interop.WMPLib.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\AxInterop.MSVidCtlLib.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\AxInterop.WMPLib.dll
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Source\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
